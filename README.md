@@ -1,5 +1,1 @@
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+<iframe src="url" title="description"></iframe>
