@@ -1,1 +1,3 @@
-<iframe src="https://github.com/adamnemecek/coinductive/raw/main/coinductive.guide.pdf" title="description"></iframe>
+# Coinductive guide to inductive transformer heads
+
+This is a repo hosting an upcoming arXiv paper.
