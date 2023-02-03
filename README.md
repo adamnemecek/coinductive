@@ -1,1 +1,1 @@
-<iframe src="url" title="description"></iframe>
+<iframe src="https://github.com/adamnemecek/coinductive/raw/main/coinductive.guide.pdf" title="description"></iframe>
